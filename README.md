@@ -1,2 +1,2 @@
 # Map_aplication-Python
-Aplication to import a csv file and generate graphic maps with Python.
+Aplication to import a csv file and generate graphic maps with Python using Pandas and Folium.
